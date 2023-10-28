@@ -1,0 +1,31 @@
+{
+  "name": "Compact Collections",
+  "description": "Do you have lots of collections? This is what you need. This theme will make collection page more compact",
+  "author": "kinix",
+  "version": "v1.0",
+  "manifest_version": 8,
+  "inject": {
+    "shared.css": ["SP", "MainMenu", "QuickAccess", "notificationtoasts.*"]
+  },
+  "target": "Library",
+  "patches": {
+    "Columns": {
+      "default": "3",
+      "type": "slider",
+      "values": {
+        "2": {
+          "columns2.css": ["SP"]
+        },
+        "3": {
+          "columns3.css": ["SP"]
+        },
+        "4": {
+          "columns4.css": ["SP"]
+        },
+        "5": {
+          "columns5.css": ["SP"]
+        }
+      }
+    }
+  }
+}

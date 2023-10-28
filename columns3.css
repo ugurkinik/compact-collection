@@ -1,0 +1,7 @@
+.allcollections_Grid_Ma65K {
+	grid-template-columns: repeat(auto-fill, 260px) !important;
+}
+
+.allcollections_CollectionLabel_1J1LQ div:first-child {
+		max-width: 200px;
+}

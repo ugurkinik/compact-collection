@@ -1,0 +1,39 @@
+.allcollections_Grid_Ma65K {
+	grid-auto-rows: 42px !important;
+    gap: 13px !important;
+}
+
+.allcollections_DisplayCaseContainerBounds_3n796 {
+	display: none !important;
+}
+
+.allcollections_CollectionLabel_1J1LQ {
+	bottom: 0 !important;
+	padding: 9px 0 !important;
+    font-size: 14px !important;
+    width: 90% !important;
+    letter-spacing: 0 !important;
+}
+
+.allcollections_CollectionLabel_1J1LQ div:first-child {
+	display: flex;
+	float: left;
+	overflow: hidden;
+	white-space: nowrap;
+}
+
+.allcollections_CollectionLabelCount_36QQL {
+	display: flex;
+	float: right;
+	background: rgba(0,0,0,0.4);
+	border-radius: 20px;
+	font-size: 10px !important;
+	margin: 4px 0;
+    box-shadow: inset 0px 0px 4px #000;
+    overflow: hidden;
+}
+
+.allcollections_CollectionLabelCount_36QQL:before, .allcollections_CollectionLabelCount_36QQL:after {
+    margin: 0 -1px;
+    content: '';
+}
