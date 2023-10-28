@@ -20,6 +20,7 @@
 	float: left;
 	overflow: hidden;
 	white-space: nowrap;
+	-webkit-mask-image: linear-gradient(90deg, #fff 75%, transparent);
 }
 
 .allcollections_CollectionLabelCount_36QQL {
