@@ -2,7 +2,7 @@
   "name": "Compact Collections",
   "description": "Do you have lots of collections? This is what you need. This theme will make collection page more compact",
   "author": "kinix",
-  "version": "v1.0",
+  "version": "v1.1",
   "manifest_version": 8,
   "inject": {
     "shared.css": ["SP", "MainMenu", "QuickAccess", "notificationtoasts.*"]
@@ -24,6 +24,21 @@
         },
         "5": {
           "columns5.css": ["SP"]
+        }
+      }
+    },
+    "Colors": {
+      "default": "Color Only",
+      "type": "dropdown",
+      "values": {
+        "Original": {
+          "color0.css": ["SP"]
+        },
+        "Color Only": {
+          "color1.css": ["SP"]
+        },
+        "Performance": {
+          "color2.css": ["SP"]
         }
       }
     }
