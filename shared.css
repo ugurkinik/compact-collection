@@ -1,6 +1,8 @@
 .allcollections_Grid_Ma65K {
 	grid-auto-rows: 42px !important;
     gap: 13px !important;
+    padding-top: 207px;
+    margin-top: -207px;
 }
 
 .allcollections_CollectionLabel_1J1LQ {

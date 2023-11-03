@@ -2,15 +2,15 @@
   "name": "Compact Collections",
   "description": "Do you have lots of collections? This is what you need. This theme will make collection page more compact",
   "author": "kinix",
-  "version": "v1.1",
+  "version": "v1.2",
   "manifest_version": 8,
   "inject": {
-    "shared.css": ["SP", "MainMenu", "QuickAccess", "notificationtoasts.*"]
+    "shared.css": ["SP"]
   },
   "target": "Library",
   "patches": {
     "Columns": {
-      "default": "3",
+      "default": "4",
       "type": "slider",
       "values": {
         "2": {
