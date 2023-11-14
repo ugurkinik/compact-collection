@@ -36,3 +36,11 @@
     margin: 0 -1px;
     content: '';
 }
+
+.allcollections_DynamicCollection_sZaUD svg {
+    right: 0px !important;
+    bottom: 0px !important;
+    width: 12px !important;
+    padding: 0 !important;
+    height: 100% !important;
+}

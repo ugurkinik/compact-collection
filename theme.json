@@ -2,7 +2,7 @@
   "name": "Compact Collections",
   "description": "Do you have lots of collections? This is what you need. This theme will make collection page more compact",
   "author": "kinix",
-  "version": "v1.2",
+  "version": "v1.3",
   "manifest_version": 8,
   "inject": {
     "shared.css": ["SP"]
