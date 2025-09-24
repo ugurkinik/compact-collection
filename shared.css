@@ -18,7 +18,10 @@
 	float: left;
 	overflow: hidden;
 	white-space: nowrap;
-	-webkit-mask-image: linear-gradient(90deg, #fff 75%, transparent);
+}
+
+.allcollections_CollectionLabel_1J1LQ div:last-child {
+	float: right;
 }
 
 .allcollections_CollectionLabelCount_36QQL {
