@@ -1,8 +1,8 @@
 {
   "name": "Compact Collections",
-  "description": "Do you have lots of collections? This is what you need. This theme will make collection page more compact",
+  "description": "Do you have lots of collections? This is what you need. This theme will make collection page more compact. (Known Bug: Some collections will not be shown if you have more than 7 times per column count collections)",
   "author": "kinix",
-  "version": "v1.4",
+  "version": "v1.5",
   "manifest_version": 8,
   "inject": {
     "shared.css": ["SP"]
