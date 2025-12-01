@@ -18,10 +18,12 @@
 	float: left;
 	overflow: hidden;
 	white-space: nowrap;
+	max-width: 75%;
 }
 
 .allcollections_CollectionLabel_1J1LQ div:last-child {
 	float: right;
+	max-width: 100%;
 }
 
 .allcollections_CollectionLabelCount_36QQL {
